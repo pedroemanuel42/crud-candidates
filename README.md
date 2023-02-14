@@ -15,7 +15,7 @@ Este projeto é um exercício proposto com o intuito de desenvolver uma CRUD sim
 
 Após baixar o repositório, para rodar o projeto, primeiro precisamos utilizar o XAMPP Control Painel com o Apache e MySQL iniciados.
 
-image.png
+<img src="./public/images/xamp.png" alt="Italian Trulli">
 
 Em seguida, abrir o terminal no diretório do projeto e executar o comando: php artisan serve
 

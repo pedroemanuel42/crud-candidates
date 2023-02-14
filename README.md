@@ -33,7 +33,7 @@ Ao clicar em "Go to CRUD", você terá acesso a CRUD desenvolvida neste projeto.
 
 ### Adicionando povo candidato
 
-Ao clicar em "Add Novo Candidato", você será redirecionado para o forms onde preencherá as informações referentes ao candidato.
+Ao clicar em "Add New Candidate", você será redirecionado para o forms onde preencherá as informações referentes ao candidato.
 
 <img src="./public/images/create.png" alt="create">
 

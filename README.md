@@ -17,7 +17,11 @@ Após baixar o repositório, para rodar o projeto, primeiro precisamos utilizar 
 
 <img src="./public/images/xamp.png" alt="xampp">
 
-Em seguida, abrir o terminal no diretório do projeto e executar o comando: php artisan serve
+Criar a tabela "crud_candidates"(pode ser outro nome mas será preciso alterar o nome do banco de dados no arquivo .env). Em seguida, abrir o terminal para migrar as tabelas no banco de dados utilizando o comando "php artisan migrate":
+
+<img src="./public/images/migrate.png" alt="migrate">
+
+Em seguida, executar o comando: "php artisan serve" para o servidor rodar localmente
 
 <img src="./public/images/terminal.png" alt="terminal">
 

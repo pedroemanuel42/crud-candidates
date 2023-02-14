@@ -15,69 +15,65 @@ Este projeto é um exercício proposto com o intuito de desenvolver uma CRUD sim
 
 Após baixar o repositório, para rodar o projeto, primeiro precisamos utilizar o XAMPP Control Painel com o Apache e MySQL iniciados.
 
-<img src="./public/images/xamp.png" alt="Italian Trulli">
+<img src="./public/images/xamp.png" alt="xampp">
 
 Em seguida, abrir o terminal no diretório do projeto e executar o comando: php artisan serve
 
-image.png
+<img src="./public/images/terminal.png" alt="terminal">
 
 Acessando então a URL para o localhost, você terá acesso a tela inicial do projeto.
 
-image.png
+<img src="./public/images/welcome.png" alt="welcome">
 
 ## Navegando sobre o projeto
 
-image.png
+Ao clicar em "Go to CRUD", você terá acesso a CRUD desenvolvida neste projeto.(obs: lembre-se de estar com o apache e o mysql)
 
-Esta é a tela inicial do projeto, ao clicar em "Go to CRUD", você terá acesso a CRUD desenvolvida neste projeto.(obs: lembre-se de estar com o apache e o mysql)
-
-image.png
+<img src="./public/images/index.png" alt="index">
 
 ### Adicionando povo candidato
 
 Ao clicar em "Add Novo Candidato", você será redirecionado para o forms onde preencherá as informações referentes ao candidato.
 
-image.png
+<img src="./public/images/create.png" alt="create">
 
 Ao selecionar o estado, as cidades do referente estado aparecerão no select de cidade abaixo:
 
-image.png
+<img src="./public/images/cities.png" alt="cities">
 
 Preenchido e adicionado, o candidato será enviado para o BD, onde será listado no index:
 
-image.png
+<img src="./public/images/create-filled.png" alt="create-filled">
 
-image.png
+<img src="./public/images/new-index.png" alt="new-index">
 
 ### Ver candidato
 
 Ao clicar em "See", você será redirecionado para a página do candidato onde serão mostrados os dados referentes ao mesmo.
 
-image.png
+<img src="./public/images/see.png" alt="see">
 
 ### Editando candidato
 
 Ao clicar em editar, você será redirecionado para o forms no qual poderá atualizar os dados referentes ao candidato escolhido.
 
-image.png
+<img src="./public/images/edit.png" alt="edit">
 
 Pós atualizado, o participante terá seus dados modificados e listados novamente no index.
 
-image.png
+<img src="./public/images/edit-updated.png" alt="edit-updated">
 
 ### Excluindo candidato
 
-Ao clicar em "Delete", o candidato será excluido do registro do BD e consequentemente, da lista.
-
-image.png
+Na imagem acima, o botão "Delete" está disponível para excluir o candidato, o candidato será excluido do registro do BD e consequentemente, da lista.
 
 Confirmar delete:
 
-image.png
+<img src="./public/images/confirm-delete.png" alt="confirm-delete">
 
 Nova lista de candidatos pós exclusão.
 
-image.png
+<img src="./public/images/delete-updated.png" alt="delete-updated">
 
 ### Observações
 

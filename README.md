@@ -35,7 +35,7 @@ Ao clicar em "Go to CRUD", você terá acesso a CRUD desenvolvida neste projeto.
 
 <img src="./public/images/index.png" alt="index">
 
-### Adicionando povo candidato
+### Adicionando novo candidato
 
 Ao clicar em "Add New Candidate", você será redirecionado para o forms onde preencherá as informações referentes ao candidato.
 
@@ -78,6 +78,14 @@ Confirmar delete:
 Nova lista de candidatos pós exclusão.
 
 <img src="./public/images/delete-updated.png" alt="delete-updated">
+
+### Links úteis
+
+- PHP: https://www.php.net/downloads
+- Composer: https://getcomposer.org/
+- MySQL: https://dev.mysql.com/downloads/mysql/
+- Xampp Control Panel: https://www.apachefriends.org/download.html
+
 
 ### Observações
 
